@@ -1,6 +1,6 @@
 #ignoring all helper notebooks
 helper_notebooks/
 
-data/ 
+#data/ 
 
-pdf_docs/
+#pdf_docs/
