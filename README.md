@@ -27,7 +27,6 @@ The project uses simulated but realistic datasets provided publicly by Chelsea F
 - `GPS Data.csv`: Daily movement and load metrics (e.g., total distance, high-speed running, acceleration counts).
 - `Recovery Status Data.csv`: Aggregated scores across sleep, soreness, subjective recovery, and biomarkers.
 - `Physical Capability Data.csv`: Strength, sprint, jump, and movement capacity metrics.
-- `Individual Priority Areas.csv`: Personalized targets and goals set by the performance team and player.
 
 📌 **Data Source:**  
 [Performance Insights Vizathon Homepage](https://chelsea-fc-performance-insights.github.io/Competition/#data)  
